@@ -1,0 +1,6 @@
+[submodule "empweb"]
+	path = empweb
+	url = https://github.com/csengekulker/empweb
+[submodule "empdata"]
+	path = empdata
+	url = https://github.com/csengekulker/empdata
